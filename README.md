@@ -1,2 +1,0 @@
-# hadoop
-learning hadoop
